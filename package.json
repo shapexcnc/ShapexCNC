@@ -1,0 +1,12 @@
+{
+  "name": "shapexcnc",
+  "version": "1.0.0",
+  "description": "Static website for ShapexCNC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
